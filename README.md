@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Snake animation] (https://github.com/celynadaminello)
-
 <!--
 **celynadaminello/celynadaminello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
