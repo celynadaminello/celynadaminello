@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Celyna, nice to meet you!
-- 🔭 I’m currently working on CRAISA
+- 🔭 I’m currently working on CRAISA but I'm searching for new opportunities
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: celycode@gmail.com
 - 😄 Pronouns: she/her
