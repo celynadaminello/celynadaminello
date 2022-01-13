@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Celyna, nice to meet you!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23FF0983&size=25&center=true&vCenter=true&lines=Hey+there%2C+my+name+is+Celyna;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 - 🔭 I’m currently working on CRAISA but I'm searching for new opportunities
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: celycode@gmail.com
