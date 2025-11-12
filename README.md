@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23FF0983&size=25&center=true&vCenter=true&lines=Hey+there%2C+my+name+is+Celyna;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
-- 🔭 I’m currently working on Bloomin
+- 🔭 I’m currently working on Teddy Open Finance
 - 🌱 I’m currently learning Next.js, Angular and Java.
 - 📫 How to reach me: celynadmnll@gmail.com
 - 😄 Pronouns: she/her
