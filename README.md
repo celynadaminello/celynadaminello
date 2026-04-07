@@ -7,12 +7,6 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/celynadaminello">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=celynadaminello&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celynadaminello&layout=compact&langs_count=7&theme=radical"/>
-</div>
-    <br>
-<div align="center">
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,java,spring,react,next,javascript,typescript,docker,git,bootstrap,sass,tailwind" />
   </a>
